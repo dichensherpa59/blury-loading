@@ -1,4 +1,4 @@
-const loadText = document.querySelector('.loading-text')
+const loadText = document.getElementById('loading-text')
 const bg = document.querySelector('.bg')
 
 let load = 0
